@@ -1,1 +1,3 @@
-See result here https://wqro2c.csb.app/
+# Order Summary Card
+
+### [Live Site](//wqro2c.csb.app/)
